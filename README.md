@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @H9660
-- 👀 This is my project space!
-- 🌱 I’m glad to be a competitive coder
-- 💞️ I’m looking forward to get a seat in Google 
+- 👋 Hi, I’m Hussain Lohawala.
+- 👀 This is where you will find my works.
+- 🌱 I’m glad to be a competitive coder and a game developer.
+- 💞️ I’m looking forward to get a seat in Google.
 - 📫 These are my profiles on CP platforms: 
 
 CodeChef: https://www.codechef.com/users/hussain_14
