@@ -1,10 +1,18 @@
 - 👋 Hi, I’m @H9660
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 This is my project space!
+- 🌱 I’m glad to be a competitive coder
+- 💞️ I’m looking forward to get a seat in Google 
+- 📫 These are my profiles on CP platforms: 
 
-<!---
-H9660/H9660 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+CodeChef: https://www.codechef.com/users/hussain_14
+
+Codeforces: https://codeforces.com/profile/Gold_Digger_14
+
+Leetcode: https://leetcode.com/Hussain_14/
+
+GeeksforGeeks: https://auth.geeksforgeeks.org/user/lohahussain0/practice/
+
+As in January 2022, I am working on my first 3d game which I started developig last month. I have a dedicated github repository for that do check it out!
+https://github.com/H9660/Dodgy
+
+I also work upon my problem solving skills by solving as much as I can. And not to say, DSA is bae!  
