@@ -9,4 +9,4 @@ Working on MERN projects actively. Recently I participated in a hackathon and bu
 *   🌍  I'm based in India
 *   ✉️  You can contact me at [lohahussain0@gmail.com](mailto:lohahussain0@gmail.com)
 *   🧠  I'm learning NextJs
-*   🤝  I'm open to collaborating on Scents
+*   🤝  I'm open to collaborating on [Whatsapp-me](https://github.com/H9660/whatsapp-me)
