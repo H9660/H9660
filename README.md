@@ -9,7 +9,7 @@
 
 ### 🔥 About Me
 - 🌍 Living in **India**, coding across galaxies.
-- 🛠️ Building: [Whatsapp-me](https://whatsapp-me-red.vercel.app/)
+- 🛠️ Building: [ScentDazzle](https://www.scentdazzle.shop/home)
 - 💌 Email me: [lohahussain0@gmail.com](mailto:lohahussain0@gmail.com)
 - 🧠 Currently leveling up with **Next.js**  
 - 🤝 Open to collabs: [lohahussain0@gmail.com](mailto:lohahussain0@gmail.com)
