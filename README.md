@@ -12,15 +12,19 @@
 - 🛠️ Building: [Whatsapp-me](https://whatsapp-me-red.vercel.app/)
 - 💌 Email me: [lohahussain0@gmail.com](mailto:lohahussain0@gmail.com)
 - 🧠 Currently leveling up with **Next.js**  
-- 🤝 Open to collabs: [Whatsapp-me Repo](https://github.com/H9660/whatsapp-me)
+- 🤝 Open to collabs: [lohahussain0@gmail.com](mailto:lohahussain0@gmail.com)
 
 ---
 
-### ⚡ Featured Project: Whatsapp Me  
-**Whatsapp Me** is a tool that lets you instantly start WhatsApp chats — now with **group log functionality** to track shared links.  
-[Live Demo](https://whatsapp-me-red.vercel.app/) | [Source](https://github.com/H9660/whatsapp-me)
+### ⚡ Featured Project: Distributed File Sharing System (P2P)
 
-> _“Built for instant conversations. Upgraded with context.”_  
+**Distributed File Sharing System** is a peer-to-peer application built in **C** that enables secure, group-based file sharing without relying on centralized storage. The system uses **dual synchronized tracker servers** for metadata management while transferring file data directly between peers for efficiency and scalability.
+
+It supports **parallel multi-peer downloads**, **piece-wise file transfers**, and **SHA-1 based integrity verification** to ensure reliability and correctness. The architecture is designed to handle **tracker failures, peer disconnects, and concurrent downloads** gracefully.
+
+[Source]([https://github.com/H9660/Distributed-File-Sharing](https://github.com/H9660/Distributed-file-sharing-system))
+
+> *"Designed for reliability. Built for scale."*
 
 ---
 
